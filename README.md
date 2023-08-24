@@ -42,8 +42,8 @@ Enhance the shell by incorporating the following functionalities:
 
 ### 4. Simple shell 0.4
 In this iteration, which enhances further from the third version, we aim to:
-- Implement the `exit` built-in command, allowing the user to shut down the shell gracefully.
-- No arguments must be handled with the `exit` command, ensuring straightforward functionality.
+- Implement the exit built-in command, allowing the user to shut down the shell gracefully.
+- No arguments must be handled with the exit command, ensuring straightforward functionality.
 
 ### 5. Simple shell 1.0
 In this milestone, building upon the previous version, we aim to:
