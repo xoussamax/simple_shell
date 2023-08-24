@@ -3,7 +3,7 @@
 /**
  * main - Entry point for the simple shell.
  * @argc: Argument count (not used).
- * @argv: Argument vector, used for the  error reporting.
+ * @argv: Argument vector, used to report error.
  * Return: Always 0 (success).
  */
 int main(int argc, char *argv[])
