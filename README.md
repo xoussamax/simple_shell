@@ -1,4 +1,12 @@
 # 0x16. C - Simple Shell
+## Group project
+Project to be done in teams of 2 people (your team: Oussama Amahrouch,(unpaired))
+
+Project will start Aug 9, 2023 4:00 AM, must end by Aug 24, 2023 4:00 AM
+
+Checker will be released at Aug 22, 2023 11:12 PM
+
+An auto review will be launched at the deadline
 
 ## Description
 
@@ -40,12 +48,3 @@ In this iteration, which enhances further from the third version, we aim to:
 ### 5. Simple shell 1.0
 In this milestone, building upon the previous version, we aim to:
 - Implement the env built-in command to allow users to print the current environment variables to the console. Such a feature adds a layer of convenience and functionality, providing insights into the system's state.
-
-## Authors
-
-- [Moncif Ayouch](https://github.com/moncef63)
-- [Amine Lamuadni](https://github.com/aminelamuadni)
-
-## Acknowledgements
-
-This project was done collaboratively by [Ayouch Moncif](https://github.com/moncef63) and [Amine Lamuadni](https://github.com/aminelamuadni) as part of the ALX Software Engineering Program curriculum.
